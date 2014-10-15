@@ -26,7 +26,7 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 # 博客地址，如果没有自定义CNAME，写用户名即可
-production_url : microrz
+production_url : http://microrz.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 # 我使用我的id作为了这个属性的属性名
